@@ -1,0 +1,15 @@
+{
+  "name": "eventsim-js",
+  "version": "1.0.0",
+  "description": "Event-Driven Hardware Simulation in Modern(ish) JS",
+  "main": "main.js",
+  "author": "HW21",
+  "license": "BSD",
+  "private": true,
+  "dependencies": {
+    "collections": "^5.1.9"
+  },
+  "scripts": {
+    "start": "node --use_strict main.js"
+  }
+}
